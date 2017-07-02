@@ -1,6 +1,3 @@
-.gitignore
-*.md
-
 # programs separated by week
 week_1/*.c
 week_2/*.c
