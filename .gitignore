@@ -6,4 +6,5 @@ week_2/*
 !week_2/*.c
 
 # psets
-pset1/*.c
+pset1/*
+!pset1/*.c
