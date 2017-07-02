@@ -1,6 +1,9 @@
 # programs separated by week
-week_1/*.c
-week_2/*.c
+week_1/*
+!week_1/*.c
+
+week_2/*
+!week_2/*.c
 
 # psets
 pset1/*.c
